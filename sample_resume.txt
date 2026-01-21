@@ -1,0 +1,57 @@
+python << 'EOF'
+resume_content = """JOHN DOE
+Email: john.doe@email.com | Phone: +1-555-123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+Location: San Francisco, CA 94102
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 5+ years of expertise in Natural Language Processing, 
+Deep Learning, and AI systems. Strong background in Python, PyTorch, and cloud technologies.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, JavaScript, SQL, R
+ML/AI Frameworks: PyTorch, TensorFlow, Keras, scikit-learn, spaCy, Transformers, Hugging Face
+NLP: BERT, GPT, Named Entity Recognition, Text Classification, Sentiment Analysis, LLMs
+Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, Git, CI/CD
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Web Technologies: FastAPI, Flask, Django, React, Node.js
+
+WORK EXPERIENCE
+
+Senior Machine Learning Engineer | TechCorp AI | San Francisco, CA
+June 2021 - Present
+- Led development of NLP pipeline processing 10M+ documents daily
+- Architected and deployed transformer-based chatbot serving 100K+ users
+- Implemented automated ML pipeline reducing model training time by 60%
+
+ML Engineer | DataSolutions Inc. | Palo Alto, CA
+January 2019 - May 2021
+- Developed text classification system achieving 92% F1 score
+- Built named entity recognition model for extracting structured data
+- Deployed ML models to AWS using Docker and Kubernetes
+
+EDUCATION
+
+Master of Science in Computer Science (Artificial Intelligence)
+Stanford University | Stanford, CA
+Graduated: May 2017 | GPA: 3.9/4.0
+
+Bachelor of Technology in Computer Science
+Massachusetts Institute of Technology (MIT) | Cambridge, MA
+Graduated: May 2015 | GPA: 3.8/4.0
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty (2023)
+- TensorFlow Developer Certificate (2022)
+
+PROJECTS
+AI Resume Parser using NLP and transformers
+Real-time Chatbot System with PyTorch
+
+LANGUAGES
+English (Native), Spanish (Fluent)"""
+
+with open('samples/sample_resume.txt', 'w') as f:
+    f.write(resume_content)
+print("✅ Resume file created successfully!")
+EOF

@@ -1,0 +1,29 @@
+2026-01-21 10:39:13 - __main__ - INFO - Parsing resume: samples/sample_resume.txt
+2026-01-21 10:39:13 - resume_parser - INFO - Starting parse for: samples/sample_resume.txt
+2026-01-21 10:39:13 - resume_parser - ERROR - Error extracting text: [Errno 2] No such file or directory: 'samples/sample_resume.txt'
+2026-01-21 10:39:13 - __main__ - ERROR - Error parsing resume: [Errno 2] No such file or directory: 'samples/sample_resume.txt'
+2026-01-21 10:40:39 - __main__ - INFO - Parsing resume: samples/sample_resume.txt
+2026-01-21 10:40:40 - resume_parser - INFO - Starting parse for: samples/sample_resume.txt
+2026-01-21 10:40:40 - resume_parser - ERROR - Error extracting text: [Errno 2] No such file or directory: 'samples/sample_resume.txt'
+2026-01-21 10:40:40 - __main__ - ERROR - Error parsing resume: [Errno 2] No such file or directory: 'samples/sample_resume.txt'
+2026-01-21 10:42:00 - __main__ - INFO - Parsing resume: samples/sample_resume.txt
+2026-01-21 10:42:00 - resume_parser - INFO - Starting parse for: samples/sample_resume.txt
+2026-01-21 10:42:00 - resume_parser - ERROR - Error extracting text: [Errno 2] No such file or directory: 'samples/sample_resume.txt'
+2026-01-21 10:42:00 - __main__ - ERROR - Error parsing resume: [Errno 2] No such file or directory: 'samples/sample_resume.txt'
+2026-01-21 10:45:07 - __main__ - INFO - Parsing resume: sample_resume.txt
+2026-01-21 10:45:07 - resume_parser - INFO - Starting parse for: sample_resume.txt
+2026-01-21 10:45:07 - __main__ - INFO - Resume parsed successfully. Output saved to: output/sample_resume_parsed.json
+2026-01-21 10:45:07 - __main__ - INFO - Processing complete!
+2026-01-21 10:46:05 - __main__ - INFO - Matching resume with job description...
+2026-01-21 10:46:06 - resume_parser - INFO - Starting parse for: sample_resume.txt
+2026-01-21 10:46:06 - skill_matcher - INFO - Loading sentence transformer model: all-MiniLM-L6-v2
+2026-01-21 10:46:09 - skill_matcher - INFO - Starting skill matching...
+2026-01-21 10:46:14 - skill_matcher - INFO - Match score: 78.77817106246948%
+2026-01-21 10:46:14 - __main__ - INFO - Skill matching completed. Output saved to: output/sample_resume_matched.json
+2026-01-21 10:46:14 - __main__ - INFO - Processing complete!
+2026-01-21 10:47:40 - skill_matcher - INFO - Loading sentence transformer model: all-MiniLM-L6-v2
+2026-01-21 10:47:55 - resume_parser - INFO - Starting parse for: /var/folders/bv/dr6p1w450cx6wjf6jys3q3vc0000gn/T/tmprl2tyvaa.pdf
+2026-01-21 10:48:06 - resume_parser - INFO - Starting parse for: /var/folders/bv/dr6p1w450cx6wjf6jys3q3vc0000gn/T/tmptupnjniz.pdf
+2026-01-21 10:51:13 - resume_parser - INFO - Starting parse for: /var/folders/bv/dr6p1w450cx6wjf6jys3q3vc0000gn/T/tmpp0q2vv1q.pdf
+2026-01-21 10:52:09 - skill_matcher - INFO - Loading sentence transformer model: all-MiniLM-L6-v2
+2026-01-21 10:52:18 - resume_parser - INFO - Starting parse for: /var/folders/bv/dr6p1w450cx6wjf6jys3q3vc0000gn/T/tmpcmoqlz6p.pdf

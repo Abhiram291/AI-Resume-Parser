@@ -1,0 +1,52 @@
+{
+  "title": "Senior NLP Engineer",
+  "company": "AI Innovations Inc.",
+  "location": "San Francisco, CA / Remote",
+  "description": "We are seeking an experienced NLP Engineer to join our AI team. The ideal candidate will have strong expertise in Natural Language Processing, Machine Learning, and deep learning frameworks. You will work on cutting-edge NLP projects including chatbots, text classification, named entity recognition, and semantic search systems.",
+  "required_skills": [
+    "Python",
+    "NLP",
+    "Machine Learning",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow",
+    "Transformers",
+    "BERT",
+    "spaCy",
+    "Hugging Face",
+    "SQL",
+    "Git",
+    "Docker",
+    "AWS",
+    "REST API"
+  ],
+  "preferred_skills": [
+    "Kubernetes",
+    "Streamlit",
+    "FastAPI",
+    "MongoDB",
+    "React",
+    "LLMs",
+    "GPT",
+    "Prompt Engineering"
+  ],
+  "requirements": {
+    "education": "Bachelor's or Master's degree in Computer Science, AI, or related field",
+    "experience": "3+ years of experience in NLP/ML engineering",
+    "other": [
+      "Strong programming skills in Python",
+      "Experience with transformer models and pre-trained language models",
+      "Knowledge of MLOps and model deployment",
+      "Excellent problem-solving and communication skills",
+      "Experience with agile development methodologies"
+    ]
+  },
+  "responsibilities": [
+    "Design and develop NLP models for various business applications",
+    "Implement and optimize transformer-based models for production use",
+    "Build data pipelines for training and inference",
+    "Collaborate with cross-functional teams to integrate NLP solutions",
+    "Research and implement state-of-the-art NLP techniques",
+    "Deploy and monitor ML models in production environments"
+  ]
+}

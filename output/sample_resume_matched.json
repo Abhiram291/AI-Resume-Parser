@@ -1,0 +1,150 @@
+{
+  "personal_info": {
+    "email": "john.doe@email.com",
+    "phone": "+1-555-123-4567",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/johndoe",
+    "name": "Deep Learning",
+    "location": "LinkedIn"
+  },
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science (Artificial Intelligence)",
+      "institution": "john.doe@email.com"
+    },
+    {
+      "institution": "john.doe@email.com"
+    },
+    {
+      "institution": "john.doe@email.com",
+      "year": "2017",
+      "GPA": "3.9"
+    },
+    {
+      "degree": "Bachelor of Technology in Computer Science",
+      "institution": "john.doe@email.com"
+    },
+    {
+      "institution": "john.doe@email.com"
+    },
+    {
+      "institution": "john.doe@email.com",
+      "year": "2015",
+      "GPA": "3.8"
+    },
+    {
+      "institution": "john.doe@email.com"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Experienced Machine Learning Engineer",
+      "role": "Experienced Machine Learning Engineer with 5+ years of expertise in Natural Language Processing,",
+      "duration": null,
+      "responsibilities": []
+    },
+    {
+      "company": "ML/AI Frameworks",
+      "role": "ML/AI Frameworks: PyTorch, TensorFlow, Keras, scikit-learn, spaCy, Transformers, Hugging Face",
+      "duration": null,
+      "responsibilities": []
+    },
+    {
+      "company": "TechCorp",
+      "role": "Senior Machine Learning Engineer | TechCorp AI | San Francisco, CA",
+      "duration": null,
+      "responsibilities": [
+        "Led development of NLP pipeline processing 10M+ documents daily",
+        "Architected and deployed transformer-based chatbot serving 100K+ users",
+        "Implemented automated ML pipeline reducing model training time by 60%"
+      ]
+    },
+    {
+      "company": "ML Engineer",
+      "role": "ML Engineer | DataSolutions Inc. | Palo Alto, CA",
+      "duration": null,
+      "responsibilities": [
+        "Developed text classification system achieving 92% F1 score",
+        "Built named entity recognition model for extracting structured data",
+        "Deployed ML models to AWS using Docker and Kubernetes",
+        "AWS Certified Machine Learning - Specialty (2023)",
+        "TensorFlow Developer Certificate (2022)"
+      ]
+    }
+  ],
+  "skills": [
+    "Aws",
+    "Bert",
+    "Ci/Cd",
+    "Deep Learning",
+    "Django",
+    "Docker",
+    "Elasticsearch",
+    "Fastapi",
+    "Flask",
+    "Git",
+    "Github",
+    "Gpt",
+    "Java",
+    "Javascript",
+    "Jenkins",
+    "Keras",
+    "Kubernetes",
+    "Machine Learning",
+    "Mongodb",
+    "Nlp",
+    "Node.Js",
+    "Postgresql",
+    "Python",
+    "Pytorch",
+    "R",
+    "React",
+    "Redis",
+    "Scikit-Learn",
+    "Sql",
+    "Tensorflow",
+    "Transformers"
+  ],
+  "certifications": [
+    "CERTIFICATIONS",
+    "- AWS Certified Machine Learning - Specialty (2023)",
+    "- TensorFlow Developer Certificate (2022)"
+  ],
+  "projects": [
+    "- Implemented automated ML pipeline reducing model training time by 60%",
+    "- Developed text classification system achieving 92% F1 score",
+    "- Built named entity recognition model for extracting structured data",
+    "print(\"✅ Resume file created successfully!\")"
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "skill_match": {
+    "job_title": "Senior NLP Engineer",
+    "overall_score": 78.78,
+    "matched_skills": [
+      "Tensorflow",
+      "Pytorch",
+      "Sql",
+      "Bert",
+      "Git",
+      "Deep Learning",
+      "Machine Learning",
+      "Docker",
+      "Transformers",
+      "Aws",
+      "Python",
+      "Nlp"
+    ],
+    "missing_skills": [
+      "spaCy",
+      "Hugging Face",
+      "REST API"
+    ],
+    "total_required_skills": 15,
+    "total_matched_skills": 12,
+    "match_percentage": 80.0,
+    "recommendation": "Good Match - Recommended"
+  }
+}
