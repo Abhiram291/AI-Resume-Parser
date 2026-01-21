@@ -46,7 +46,13 @@ resume_parser/
 ├── output/                          # Generated output files
 ├── logs/                            # Application logs
 └── samples/                         # Sample resumes (add your own)
+
 ```
+## 📸 Screenshots
+
+### Web Interface
+<img width="2524" height="1568" alt="image" src="https://github.com/user-attachments/assets/90c88b28-4527-4c30-86ce-50589b0dade5" />
+
 
 ## 🚀 Installation
 
@@ -371,14 +377,6 @@ Core libraries used:
 - **scikit-learn**: Similarity metrics
 - **streamlit**: Web interface
 
-## 🤝 Contributing
-
-Improvements welcome! Areas for contribution:
-- Support for more languages
-- Enhanced skill extraction
-- ATS (Applicant Tracking System) integration
-- Resume generation from structured data
-- Visualization dashboards
 
 ## 📝 License
 
@@ -390,15 +388,6 @@ This project is open source and available for educational and commercial use.
 - Hugging Face for transformer models
 - Sentence Transformers community
 
-## 📧 Support
-
-For issues, questions, or contributions, please:
-1. Check existing documentation
-2. Review troubleshooting section
-3. Open an issue with detailed description
-
 ---
-
-**Built with ❤️ using AI and NLP**
 
 Version: 1.0.0 | Last Updated: January 2026
