@@ -378,10 +378,6 @@ Core libraries used:
 - **streamlit**: Web interface
 
 
-## 📝 License
-
-This project is open source and available for educational and commercial use.
-
 ## 🙏 Acknowledgments
 
 - spaCy for NLP capabilities
