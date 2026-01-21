@@ -1,7 +1,5 @@
 # 🤖 AI-Powered Resume Parser with NLP
 
-# 🤖 AI-Powered Resume Parser with NLP
-
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Stars](https://img.shields.io/github/stars/Abhiram291/AI-Resume-Parser)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
