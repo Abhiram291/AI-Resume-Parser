@@ -1,5 +1,13 @@
 # 🤖 AI-Powered Resume Parser with NLP
 
+# 🤖 AI-Powered Resume Parser with NLP
+
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Stars](https://img.shields.io/github/stars/Abhiram291/AI-Resume-Parser)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![NLP](https://img.shields.io/badge/NLP-spaCy-orange.svg)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow.svg)
+
 A production-ready, state-of-the-art Resume Parser built with Natural Language Processing (NLP) that extracts structured information from resumes and performs intelligent skill matching with job descriptions.
 
 ## 🌟 Features
